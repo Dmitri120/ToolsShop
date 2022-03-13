@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string name="logo_description">Логотип магазина инструментов</string>
+    <string name="logo_drill">Логотип дрели</string>
+    <string-array name="tools">
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Болгарки</item>
+    </string-array>
+    <string name="drill_interskol_tatle">Дрель Интерскол</string>
+    <string name="drill_makita_tatle">Дрель Makita</string>
+    <string name="drill_dewalt_tatle">Дрель Dewalt</string>
+
+    <string name="drill_interskol_info">Компактный размер делает удобным применение на ограниченном пространстве;</string>
+    <string name="drill_makita_info">Предназначена для сверления отверстий в любых поверхностях</string>
+    <string name="drill_dewalt_info">Имеет два режима работы: сверление и сверление с ударом. Высококачественный ключевой патрон обеспечивает долгий срок службы инструмента. </string>
+</resources>
